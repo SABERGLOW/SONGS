@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/SABERGLOW/SONGS)](https://github.com/SABERGLOW/SONGS/blob/master/LICENSE)
+
 # SONGS
 C language project created to manage songs and their attributes (artist, release year, genre etc.) [Semester Project]]
 
