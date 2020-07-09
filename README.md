@@ -4,6 +4,9 @@ C language project created to manage songs and their attributes (artist, release
 # Overview:
 The program is designed to store data of songs in a database. For each entry the program can store the following data: title of the song, name of the performer (singer or group), title of the album it was released on, year of release, genre of the music (rock, pop, hip-hop, jazz, classical, etc.), length of song (in minutes and seconds). 
 
+# Installation:
+Simply run "songs.exe" executable file, and follow on-screen instructions.
+
 # Scope:
 The program is be capable of following functions:
   * load existing database into memory.
@@ -16,4 +19,4 @@ The program is be capable of following functions:
   * output the whole database.
 
 
-# For detailed instructions, refer Users' Manual.
+_For detailed instructions, refer to Users' Manual and Developers Documentation_
