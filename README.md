@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/SABERGLOW/SONGS)](https://github.com/SABERGLOW/SONGS/issues)
+[![GitHub issues](https://img.shields.io/github/issues/SABERGLOW/SONGS)](https://github.com/SABERGLOW/SONGS/issues) [![GitHub stars](https://img.shields.io/github/stars/SABERGLOW/SONGS)](https://github.com/SABERGLOW/SONGS/stargazers)
 
 # SONGS
 C language project created to manage songs and their attributes (artist, release year, genre etc.) [Semester Project]]
