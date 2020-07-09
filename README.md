@@ -9,7 +9,7 @@ The program is designed to store data of songs in a database. For each entry the
 # Installation:
 Simply run "songs.exe" executable file, and follow on-screen instructions.
 
-# Scope:
+# Features:
 The program is be capable of following functions:
   * load existing database into memory.
   * add new song entry to the database.
