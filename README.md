@@ -14,3 +14,6 @@ The program is be capable of following functions:
   * list all songs that were released in a user selected year.
   * list all songs of a user selected genre.
   * output the whole database.
+
+
+# For detailed instructions, refer Users' Manual.
