@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/SABERGLOW/SONGS)](https://github.com/SABERGLOW/SONGS/issues) [![GitHub stars](https://img.shields.io/github/stars/SABERGLOW/SONGS)](https://github.com/SABERGLOW/SONGS/stargazers) [![GitHub license](https://img.shields.io/github/license/SABERGLOW/SONGS)](https://github.com/SABERGLOW/SONGS/blob/master/LICENSE)
 
 # SONGS
-C language project created to manage songs and their attributes (artist, release year, genre etc.) [Semester Project]]
+C language project created to manage songs and their attributes (artist, release year, genre etc.) [Semester Project]
 
 # Overview:
 The program is designed to store data of songs in a database. For each entry the program can store the following data: title of the song, name of the performer (singer or group), title of the album it was released on, year of release, genre of the music (rock, pop, hip-hop, jazz, classical, etc.), length of song (in minutes and seconds). 
